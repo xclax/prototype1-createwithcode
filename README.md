@@ -4,9 +4,8 @@
 <br>
 
 
-<h2>Key Bindings:</hs>
-<br>
-<br>
+<h2>Key Bindings:</h2>
+
 Up and Down - Move forward/backward
 <br>
 Left Right - turn the car left and right
